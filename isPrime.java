@@ -6,7 +6,7 @@ public class isPrime {
 
         //isPrime
         int count = 0;
-        for(int i=2;i*i<=number;i++){
+        for(int i=2; i*i<=number; i++){
             if(number%i==0){
                 count++;
                 break;

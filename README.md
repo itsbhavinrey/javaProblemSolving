@@ -1,3 +1,3 @@
-# javaExamples
-## All my Java Examples
+
+##Java Codes
 1.isPrime

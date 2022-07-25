@@ -4,4 +4,4 @@
 2.primeUptoN\
 
 
-## pattern 
+## pattern Problems

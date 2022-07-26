@@ -6,7 +6,8 @@
 4.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/countDigits.java" target="_blank">countDigits</a>\
 5.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/printAllDigits.java" target="_blank">printAllDigits</a>\
 6.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/reverseTheNumber.java" target="_blank">reverseTheNumber</a>\
-7.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/inverseTheNumber.java" target="_blank">inverseTheNumber</a>
+7.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/inverseTheNumber.java" target="_blank">inverseTheNumber</a>\
+8.<a href="https://github.com/itsbhavinrey/javaProblemSolving/blob/main/1.generalMathProblems/rotateTheNumber.java" target="_blank">rotateTheNumber</a>
 
 
 ## 2.patternProblems

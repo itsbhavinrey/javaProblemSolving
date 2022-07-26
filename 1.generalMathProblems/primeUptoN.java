@@ -1,5 +1,5 @@
 import java.util.*;
- class primeUptoN {
+public class primeUptoN {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
         int low = scn.nextInt();
